@@ -124,5 +124,19 @@ Runs the consensus algorithm to resolve conflicts and ensure the node has the au
   `GET http://localhost:5000/nodes/resolve`
 
 ---
+- **Images And Gifs:**
+<img width="1920" height="1200" alt="newTransaction" src="https://github.com/user-attachments/assets/2a3fea04-bbc3-47a1-9036-765e7a10519c" />
+
+
+
+
+
+<img width="1920" height="1200" alt="Rename" src="https://github.com/user-attachments/assets/4b34eeee-655a-415e-a417-d9858473cdbd" />
+
+
+
+
+
+---
 
 This documentation provides an overview of the code and its usage. For more details, refer to the code comments.
